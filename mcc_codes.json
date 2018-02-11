@@ -7290,22 +7290,13 @@
     "id": 809
   },
   {
-    "mcc": "5531",
-    "edited_description": "Automobile Supply Stores",
-    "combined_description": "Automobile Supply Stores",
-    "usda_description": "Automobile Supply Stores",
-    "irs_description": "Auto and Home Supply Stores",
-    "irs_reportable": "No1.6041-3(c)",
-    "id": 810
-  },
-  {
     "mcc": "5532",
     "edited_description": "Automotive Tire Stores",
     "combined_description": "Automotive Tire Stores",
     "usda_description": "Automotive Tire Stores",
     "irs_description": "Automotive Tire Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 811
+    "id": 810
   },
   {
     "mcc": "5533",
@@ -7314,7 +7305,7 @@
     "usda_description": "Automotive Parts, Accessories Stores",
     "irs_description": "Automotive Parts and Accessories Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 812
+    "id": 811
   },
   {
     "mcc": "5541",
@@ -7323,7 +7314,7 @@
     "usda_description": "Service Stations ( with or without ancillary services)",
     "irs_description": "Service Stations ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 813
+    "id": 812
   },
   {
     "mcc": "5542",
@@ -7332,7 +7323,7 @@
     "usda_description": "Automated Fuel Dispensers",
     "irs_description": "Automated Fuel Dispensers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 814
+    "id": 813
   },
   {
     "mcc": "5551",
@@ -7341,7 +7332,7 @@
     "usda_description": "Boat Dealers",
     "irs_description": "Boat Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 815
+    "id": 814
   },
   {
     "mcc": "5561",
@@ -7350,7 +7341,7 @@
     "usda_description": "Recreational and Utility Trailers, Camp Dealers",
     "irs_description": "Motorcycle Shops, Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 816
+    "id": 815
   },
   {
     "mcc": "5571",
@@ -7359,7 +7350,7 @@
     "usda_description": "Motorcycle Dealers",
     "irs_description": "Motorcycle Shops and Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 817
+    "id": 816
   },
   {
     "mcc": "5592",
@@ -7368,7 +7359,7 @@
     "usda_description": "Motor Home Dealers",
     "irs_description": "Motor Homes Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 818
+    "id": 817
   },
   {
     "mcc": "5598",
@@ -7377,7 +7368,7 @@
     "usda_description": "Snowmobile Dealers",
     "irs_description": "Snowmobile Dealers",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 819
+    "id": 818
   },
   {
     "mcc": "5599",
@@ -7386,7 +7377,7 @@
     "usda_description": "",
     "irs_description": "Miscellaneous Auto Dealers ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 820
+    "id": 819
   },
   {
     "mcc": "5611",
@@ -7395,7 +7386,7 @@
     "usda_description": "Men’s and Boy’s Clothing and Accessories Stores",
     "irs_description": "Men’s and Boy’s Clothing and Accessories Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 821
+    "id": 820
   },
   {
     "mcc": "5621",
@@ -7404,7 +7395,7 @@
     "usda_description": "Women’s Ready-to-Wear Stores",
     "irs_description": "Women’s Ready-To-Wear Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 822
+    "id": 821
   },
   {
     "mcc": "5631",
@@ -7413,7 +7404,7 @@
     "usda_description": "Women’s Accessory and Specialty Shops",
     "irs_description": "Women’s Accessory and Specialty Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 823
+    "id": 822
   },
   {
     "mcc": "5641",
@@ -7422,7 +7413,7 @@
     "usda_description": "Children’s and Infant’s Wear Stores",
     "irs_description": "Children’s and Infant’s Wear Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 824
+    "id": 823
   },
   {
     "mcc": "5651",
@@ -7431,7 +7422,7 @@
     "usda_description": "Family Clothing Stores",
     "irs_description": "Family Clothing Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 825
+    "id": 824
   },
   {
     "mcc": "5655",
@@ -7440,7 +7431,7 @@
     "usda_description": "Sports Apparel, Riding Apparel Stores",
     "irs_description": "Sports and Riding Apparel Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 826
+    "id": 825
   },
   {
     "mcc": "5661",
@@ -7449,7 +7440,7 @@
     "usda_description": "Shoe Stores",
     "irs_description": "Shoe Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 827
+    "id": 826
   },
   {
     "mcc": "5681",
@@ -7458,7 +7449,7 @@
     "usda_description": "Furriers and Fur Shops",
     "irs_description": "Furriers and Fur Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 828
+    "id": 827
   },
   {
     "mcc": "5691",
@@ -7467,7 +7458,7 @@
     "usda_description": "Men’s and Women’s Clothing Stores",
     "irs_description": "Men’s, Women’s Clothing Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 829
+    "id": 828
   },
   {
     "mcc": "5697",
@@ -7476,7 +7467,7 @@
     "usda_description": "Tailors, Seamstress, Mending, and Alterations",
     "irs_description": "Tailors, Alterations",
     "irs_reportable": "Yes",
-    "id": 830
+    "id": 829
   },
   {
     "mcc": "5698",
@@ -7485,7 +7476,7 @@
     "usda_description": "Wig and Toupee Stores",
     "irs_description": "Wig and Toupee Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 831
+    "id": 830
   },
   {
     "mcc": "5699",
@@ -7494,7 +7485,7 @@
     "usda_description": "Miscellaneous Apparel and Accessory Shops",
     "irs_description": "Miscellaneous Apparel and Accessory Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 832
+    "id": 831
   },
   {
     "mcc": "5712",
@@ -7503,7 +7494,7 @@
     "usda_description": "Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances",
     "irs_description": "Furniture, Home Furnishings, and Equipment Stores, Except Appliances",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 833
+    "id": 832
   },
   {
     "mcc": "5713",
@@ -7512,7 +7503,7 @@
     "usda_description": "Floor Covering Stores",
     "irs_description": "Floor Covering Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 834
+    "id": 833
   },
   {
     "mcc": "5714",
@@ -7521,7 +7512,7 @@
     "usda_description": "Drapery, Window Covering and Upholstery Stores",
     "irs_description": "Drapery, Window Covering, and Upholstery Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 835
+    "id": 834
   },
   {
     "mcc": "5718",
@@ -7530,7 +7521,7 @@
     "usda_description": "Fireplace, Fireplace Screens, and Accessories Stores",
     "irs_description": "Fireplace, Fireplace Screens, and Accessories Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 836
+    "id": 835
   },
   {
     "mcc": "5719",
@@ -7539,7 +7530,7 @@
     "usda_description": "Miscellaneous Home Furnishing Specialty Stores",
     "irs_description": "Miscellaneous Home Furnishing Specialty Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 837
+    "id": 836
   },
   {
     "mcc": "5722",
@@ -7548,7 +7539,7 @@
     "usda_description": "Household Appliance Stores",
     "irs_description": "Household Appliance Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 838
+    "id": 837
   },
   {
     "mcc": "5732",
@@ -7557,7 +7548,7 @@
     "usda_description": "Electronic Sales",
     "irs_description": "Electronics Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 839
+    "id": 838
   },
   {
     "mcc": "5733",
@@ -7566,7 +7557,7 @@
     "usda_description": "Music Stores, Musical Instruments, Piano Sheet Music",
     "irs_description": "Music Stores-Musical Instruments, Pianos, and Sheet Music",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 840
+    "id": 839
   },
   {
     "mcc": "5734",
@@ -7575,7 +7566,7 @@
     "usda_description": "Computer Software Stores",
     "irs_description": "Computer Software Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 841
+    "id": 840
   },
   {
     "mcc": "5735",
@@ -7584,7 +7575,7 @@
     "usda_description": "Record Shops",
     "irs_description": "Record Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 842
+    "id": 841
   },
   {
     "mcc": "5811",
@@ -7593,7 +7584,7 @@
     "usda_description": "Caterers",
     "irs_description": "Caterers",
     "irs_reportable": "Yes",
-    "id": 843
+    "id": 842
   },
   {
     "mcc": "5812",
@@ -7602,7 +7593,7 @@
     "usda_description": "Eating places and Restaurants",
     "irs_description": "Eating Places, Restaurants",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 844
+    "id": 843
   },
   {
     "mcc": "5813",
@@ -7611,7 +7602,7 @@
     "usda_description": "Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",
     "irs_description": "Drinking Places",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 845
+    "id": 844
   },
   {
     "mcc": "5814",
@@ -7620,7 +7611,7 @@
     "usda_description": "Fast Food Restaurants",
     "irs_description": "Fast Food Restaurants",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 846
+    "id": 845
   },
   {
     "mcc": "5815",
@@ -7629,7 +7620,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 847
+    "id": 846
   },
   {
     "mcc": "5816",
@@ -7638,7 +7629,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 848
+    "id": 847
   },
   {
     "mcc": "5817",
@@ -7647,7 +7638,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 849
+    "id": 848
   },
   {
     "mcc": "5818",
@@ -7656,7 +7647,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 850
+    "id": 849
   },
   {
     "mcc": "5832",
@@ -7665,7 +7656,7 @@
     "usda_description": "Antique Shops – Sales, Repairs, and Restoration Services",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 851
+    "id": 850
   },
   {
     "mcc": "5912",
@@ -7674,7 +7665,7 @@
     "usda_description": "Drug Stores and Pharmacies",
     "irs_description": "Drug Stores and Pharmacies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 852
+    "id": 851
   },
   {
     "mcc": "5921",
@@ -7683,7 +7674,7 @@
     "usda_description": "Package Stores – Beer, Wine, and Liquor",
     "irs_description": "Package Stores-Beer, Wine, and Liquor",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 853
+    "id": 852
   },
   {
     "mcc": "5931",
@@ -7692,7 +7683,7 @@
     "usda_description": "Used Merchandise and Secondhand Stores",
     "irs_description": "Used Merchandise and Secondhand Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 854
+    "id": 853
   },
   {
     "mcc": "5932",
@@ -7701,7 +7692,7 @@
     "usda_description": "",
     "irs_description": "Antique Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 855
+    "id": 854
   },
   {
     "mcc": "5933",
@@ -7710,7 +7701,7 @@
     "usda_description": "Pawn Shops and Salvage Yards",
     "irs_description": "Pawn Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 856
+    "id": 855
   },
   {
     "mcc": "5935",
@@ -7719,7 +7710,7 @@
     "usda_description": "Wrecking and Salvage Yards",
     "irs_description": "Wrecking and Salvage Yards",
     "irs_reportable": "Yes",
-    "id": 857
+    "id": 856
   },
   {
     "mcc": "5937",
@@ -7728,7 +7719,7 @@
     "usda_description": "Antique Reproductions",
     "irs_description": "Antique Reproductions",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 858
+    "id": 857
   },
   {
     "mcc": "5940",
@@ -7737,7 +7728,7 @@
     "usda_description": "Bicycle Shops – Sales and Service",
     "irs_description": "Bicycle Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 859
+    "id": 858
   },
   {
     "mcc": "5941",
@@ -7746,7 +7737,7 @@
     "usda_description": "Sporting Goods Stores",
     "irs_description": "Sporting Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 860
+    "id": 859
   },
   {
     "mcc": "5942",
@@ -7755,7 +7746,7 @@
     "usda_description": "Book Stores",
     "irs_description": "Book Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 861
+    "id": 860
   },
   {
     "mcc": "5943",
@@ -7764,7 +7755,7 @@
     "usda_description": "Stationery Stores, Office and School Supply Stores",
     "irs_description": "Stationery Stores, Office, and School Supply Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 862
+    "id": 861
   },
   {
     "mcc": "5944",
@@ -7773,7 +7764,7 @@
     "usda_description": "Watch, Clock, Jewelry, and Silverware Stores",
     "irs_description": "Jewelry Stores, Watches, Clocks, and Silverware Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 863
+    "id": 862
   },
   {
     "mcc": "5945",
@@ -7782,7 +7773,7 @@
     "usda_description": "Hobby, Toy, and Game Shops",
     "irs_description": "Hobby, Toy, and Game Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 864
+    "id": 863
   },
   {
     "mcc": "5946",
@@ -7791,7 +7782,7 @@
     "usda_description": "Camera and Photographic Supply Stores",
     "irs_description": "Camera and Photographic Supply Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 865
+    "id": 864
   },
   {
     "mcc": "5947",
@@ -7800,7 +7791,7 @@
     "usda_description": "Card Shops, Gift, Novelty, and Souvenir Shops",
     "irs_description": "Gift, Card, Novelty, and Souvenir Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 866
+    "id": 865
   },
   {
     "mcc": "5948",
@@ -7809,7 +7800,7 @@
     "usda_description": "Leather Foods Stores",
     "irs_description": "Luggage and Leather Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 867
+    "id": 866
   },
   {
     "mcc": "5949",
@@ -7818,7 +7809,7 @@
     "usda_description": "Sewing, Needle, Fabric, and Price Goods Stores",
     "irs_description": "Sewing, Needlework, Fabric, and Piece Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 868
+    "id": 867
   },
   {
     "mcc": "5950",
@@ -7827,7 +7818,7 @@
     "usda_description": "Glassware/Crystal Stores",
     "irs_description": "Glassware, Crystal Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 869
+    "id": 868
   },
   {
     "mcc": "5960",
@@ -7836,7 +7827,7 @@
     "usda_description": "Direct Marketing- Insurance Service",
     "irs_description": "Direct Marketing - Insurance Services",
     "irs_reportable": "Yes",
-    "id": 870
+    "id": 869
   },
   {
     "mcc": "5961",
@@ -7845,7 +7836,7 @@
     "usda_description": "Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 871
+    "id": 870
   },
   {
     "mcc": "5962",
@@ -7854,7 +7845,7 @@
     "usda_description": "Direct Marketing – Travel Related Arrangements Services",
     "irs_description": "Direct Marketing - Travel",
     "irs_reportable": "Yes",
-    "id": 872
+    "id": 871
   },
   {
     "mcc": "5963",
@@ -7863,7 +7854,7 @@
     "usda_description": "Door-to-Door Sales",
     "irs_description": "Door-To-Door Sales",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 873
+    "id": 872
   },
   {
     "mcc": "5964",
@@ -7872,7 +7863,7 @@
     "usda_description": "Direct Marketing – Catalog Merchant",
     "irs_description": "Direct Marketing - Catalog Merchant",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 874
+    "id": 873
   },
   {
     "mcc": "5965",
@@ -7881,7 +7872,7 @@
     "usda_description": "Direct Marketing – Catalog and Catalog and Retail Merchant",
     "irs_description": "Direct Marketing - Combination Catalog and Retail Merchant",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 875
+    "id": 874
   },
   {
     "mcc": "5966",
@@ -7890,7 +7881,7 @@
     "usda_description": "Direct Marketing- Outbound Telemarketing Merchant",
     "irs_description": "Direct Marketing - Outbound Tele",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 876
+    "id": 875
   },
   {
     "mcc": "5967",
@@ -7899,7 +7890,7 @@
     "usda_description": "Direct Marketing – Inbound Teleservices Merchant",
     "irs_description": "Direct Marketing - Inbound Tele",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 877
+    "id": 876
   },
   {
     "mcc": "5968",
@@ -7908,7 +7899,7 @@
     "usda_description": "Direct Marketing – Continuity/Subscription Merchant",
     "irs_description": "Direct Marketing - Subscription",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 878
+    "id": 877
   },
   {
     "mcc": "5969",
@@ -7917,7 +7908,7 @@
     "usda_description": "Direct Marketing – Not Elsewhere Classified",
     "irs_description": "Direct Marketing - Other ",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 879
+    "id": 878
   },
   {
     "mcc": "5970",
@@ -7926,7 +7917,7 @@
     "usda_description": "Artist’s Supply and Craft Shops",
     "irs_description": "Artist’s Supply and Craft Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 880
+    "id": 879
   },
   {
     "mcc": "5971",
@@ -7935,7 +7926,7 @@
     "usda_description": "Art Dealers and Galleries",
     "irs_description": "Art Dealers and Galleries",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 881
+    "id": 880
   },
   {
     "mcc": "5972",
@@ -7944,7 +7935,7 @@
     "usda_description": "Stamp and Coin Stores – Philatelic and Numismatic Supplies",
     "irs_description": "Stamp and Coin Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 882
+    "id": 881
   },
   {
     "mcc": "5973",
@@ -7953,7 +7944,7 @@
     "usda_description": "Religious Goods Stores",
     "irs_description": "Religious Goods Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 883
+    "id": 882
   },
   {
     "mcc": "5975",
@@ -7962,7 +7953,7 @@
     "usda_description": "Hearing Aids – Sales, Service, and Supply Stores",
     "irs_description": "Hearing Aids Sales and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 884
+    "id": 883
   },
   {
     "mcc": "5976",
@@ -7971,7 +7962,7 @@
     "usda_description": "Orthopedic Goods Prosthetic Devices",
     "irs_description": "Orthopedic Goods - Prosthetic Devices",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 885
+    "id": 884
   },
   {
     "mcc": "5977",
@@ -7980,7 +7971,7 @@
     "usda_description": "Cosmetic Stores",
     "irs_description": "Cosmetic Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 886
+    "id": 885
   },
   {
     "mcc": "5978",
@@ -7989,7 +7980,7 @@
     "usda_description": "Typewriter Stores – Sales, Rental, Service",
     "irs_description": "Typewriter Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 887
+    "id": 886
   },
   {
     "mcc": "5983",
@@ -7998,7 +7989,7 @@
     "usda_description": "Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum",
     "irs_description": "Fuel Dealers (Non Automotive)",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 888
+    "id": 887
   },
   {
     "mcc": "5992",
@@ -8007,7 +7998,7 @@
     "usda_description": "Florists",
     "irs_description": "Florists",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 889
+    "id": 888
   },
   {
     "mcc": "5993",
@@ -8016,7 +8007,7 @@
     "usda_description": "Cigar Stores and Stands",
     "irs_description": "Cigar Stores and Stands",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 890
+    "id": 889
   },
   {
     "mcc": "5994",
@@ -8025,7 +8016,7 @@
     "usda_description": "News Dealers and Newsstands",
     "irs_description": "News Dealers and Newsstands",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 891
+    "id": 890
   },
   {
     "mcc": "5995",
@@ -8034,7 +8025,7 @@
     "usda_description": "Pet Shops, Pet Foods, and Supplies Stores",
     "irs_description": "Pet Shops, Pet Food, and Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 892
+    "id": 891
   },
   {
     "mcc": "5996",
@@ -8043,7 +8034,7 @@
     "usda_description": "Swimming Pools – Sales, Service, and Supplies",
     "irs_description": "Swimming Pools Sales",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 893
+    "id": 892
   },
   {
     "mcc": "5997",
@@ -8052,7 +8043,7 @@
     "usda_description": "Electric Razor Stores – Sales and Service",
     "irs_description": "Electric Razor Stores",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 894
+    "id": 893
   },
   {
     "mcc": "5998",
@@ -8061,7 +8052,7 @@
     "usda_description": "Tent and Awning Shops",
     "irs_description": "Tent and Awning Shops",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 895
+    "id": 894
   },
   {
     "mcc": "5999",
@@ -8070,7 +8061,7 @@
     "usda_description": "Miscellaneous and Specialty Retail Stores",
     "irs_description": "Miscellaneous Specialty Retail",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 896
+    "id": 895
   },
   {
     "mcc": "6010",
@@ -8079,7 +8070,7 @@
     "usda_description": "Financial Institutions – Manual Cash Disbursements",
     "irs_description": "Manual Cash Disburse",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 897
+    "id": 896
   },
   {
     "mcc": "6011",
@@ -8088,7 +8079,7 @@
     "usda_description": "Financial Institutions – Manual Cash Disbursements",
     "irs_description": "Automated Cash Disburse",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 898
+    "id": 897
   },
   {
     "mcc": "6012",
@@ -8097,7 +8088,7 @@
     "usda_description": "Financial Institutions – Merchandise and Services",
     "irs_description": "Financial Institutions",
     "irs_reportable": "Yes",
-    "id": 899
+    "id": 898
   },
   {
     "mcc": "6051",
@@ -8106,7 +8097,7 @@
     "usda_description": "Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques",
     "irs_description": "Non-FI, Money Orders",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 900
+    "id": 899
   },
   {
     "mcc": "6211",
@@ -8115,7 +8106,7 @@
     "usda_description": "Security Brokers/Dealers",
     "irs_description": "Security Brokers/Dealers",
     "irs_reportable": "Yes",
-    "id": 901
+    "id": 900
   },
   {
     "mcc": "6300",
@@ -8124,7 +8115,7 @@
     "usda_description": "Insurance Sales, Underwriting, and Premiums",
     "irs_description": "Insurance Underwriting, Premiums",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 902
+    "id": 901
   },
   {
     "mcc": "6381",
@@ -8133,7 +8124,7 @@
     "usda_description": "Insurance Premiums, (no longer valid for first presentment work)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 903
+    "id": 902
   },
   {
     "mcc": "6399",
@@ -8142,7 +8133,7 @@
     "usda_description": "Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",
     "irs_description": "Insurance - Default",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 904
+    "id": 903
   },
   {
     "mcc": "6513",
@@ -8151,7 +8142,7 @@
     "usda_description": "",
     "irs_description": "Real Estate Agents and Managers - Rentals",
     "irs_reportable": "Yes",
-    "id": 905
+    "id": 904
   },
   {
     "mcc": "6540",
@@ -8160,7 +8151,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 906
+    "id": 905
   },
   {
     "mcc": "7011",
@@ -8169,7 +8160,7 @@
     "usda_description": "Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)",
     "irs_description": "Hotels, Motels, and Resorts",
     "irs_reportable": "Yes",
-    "id": 907
+    "id": 906
   },
   {
     "mcc": "7012",
@@ -8178,7 +8169,7 @@
     "usda_description": "Timeshares",
     "irs_description": "Timeshares",
     "irs_reportable": "Yes",
-    "id": 908
+    "id": 907
   },
   {
     "mcc": "7032",
@@ -8187,7 +8178,7 @@
     "usda_description": "Sporting and Recreational Camps",
     "irs_description": "Sporting/Recreation Camps",
     "irs_reportable": "Yes",
-    "id": 909
+    "id": 908
   },
   {
     "mcc": "7033",
@@ -8196,7 +8187,7 @@
     "usda_description": "Trailer Parks and Camp Grounds",
     "irs_description": "Trailer Parks, Campgrounds",
     "irs_reportable": "Yes",
-    "id": 910
+    "id": 909
   },
   {
     "mcc": "7210",
@@ -8205,7 +8196,7 @@
     "usda_description": "Laundry, Cleaning, and Garment Services",
     "irs_description": "Laundry, Cleaning Services",
     "irs_reportable": "Yes",
-    "id": 911
+    "id": 910
   },
   {
     "mcc": "7211",
@@ -8214,7 +8205,7 @@
     "usda_description": "Laundry – Family and Commercial",
     "irs_description": "Laundries ",
     "irs_reportable": "Yes",
-    "id": 912
+    "id": 911
   },
   {
     "mcc": "7216",
@@ -8223,7 +8214,7 @@
     "usda_description": "Dry Cleaners",
     "irs_description": "Dry Cleaners",
     "irs_reportable": "Yes",
-    "id": 913
+    "id": 912
   },
   {
     "mcc": "7217",
@@ -8232,7 +8223,7 @@
     "usda_description": "Carpet and Upholstery Cleaning",
     "irs_description": "Carpet/Upholstery Cleaning",
     "irs_reportable": "Yes",
-    "id": 914
+    "id": 913
   },
   {
     "mcc": "7221",
@@ -8241,7 +8232,7 @@
     "usda_description": "Photographic Studios",
     "irs_description": "Photographic Studios",
     "irs_reportable": "Yes",
-    "id": 915
+    "id": 914
   },
   {
     "mcc": "7230",
@@ -8250,7 +8241,7 @@
     "usda_description": "Barber and Beauty Shops",
     "irs_description": "Barber and Beauty Shops",
     "irs_reportable": "Yes",
-    "id": 916
+    "id": 915
   },
   {
     "mcc": "7251",
@@ -8259,7 +8250,7 @@
     "usda_description": "Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",
     "irs_description": "Shoe Repair/Hat Cleaning",
     "irs_reportable": "Yes",
-    "id": 917
+    "id": 916
   },
   {
     "mcc": "7261",
@@ -8268,7 +8259,7 @@
     "usda_description": "Funeral Service and Crematories",
     "irs_description": "Funeral Services, Crematories",
     "irs_reportable": "Yes",
-    "id": 918
+    "id": 917
   },
   {
     "mcc": "7273",
@@ -8277,7 +8268,7 @@
     "usda_description": "Dating and Escort Services",
     "irs_description": "Dating/Escort Services",
     "irs_reportable": "Yes",
-    "id": 919
+    "id": 918
   },
   {
     "mcc": "7276",
@@ -8286,7 +8277,7 @@
     "usda_description": "Tax Preparation Service",
     "irs_description": "Tax Preparation Services",
     "irs_reportable": "Yes",
-    "id": 920
+    "id": 919
   },
   {
     "mcc": "7277",
@@ -8295,7 +8286,7 @@
     "usda_description": "Counseling Service – Debt, Marriage, Personal",
     "irs_description": "Counseling Services",
     "irs_reportable": "Yes",
-    "id": 921
+    "id": 920
   },
   {
     "mcc": "7278",
@@ -8304,7 +8295,7 @@
     "usda_description": "Buying/Shopping Services, Clubs",
     "irs_description": "Buying/Shopping Services",
     "irs_reportable": "Yes",
-    "id": 922
+    "id": 921
   },
   {
     "mcc": "7296",
@@ -8313,7 +8304,7 @@
     "usda_description": "Clothing Rental – Costumes, Formal Wear, Uniforms",
     "irs_description": "Clothing Rental ",
     "irs_reportable": "Yes",
-    "id": 923
+    "id": 922
   },
   {
     "mcc": "7297",
@@ -8322,7 +8313,7 @@
     "usda_description": "Massage Parlors",
     "irs_description": "Massage Parlors",
     "irs_reportable": "Yes",
-    "id": 924
+    "id": 923
   },
   {
     "mcc": "7298",
@@ -8331,7 +8322,7 @@
     "usda_description": "Health and Beauty Shops",
     "irs_description": "Health and Beauty Spas",
     "irs_reportable": "Yes",
-    "id": 925
+    "id": 924
   },
   {
     "mcc": "7299",
@@ -8340,7 +8331,7 @@
     "usda_description": "Miscellaneous Personal Services ( not elsewhere classifies)",
     "irs_description": "Miscellaneous General Services",
     "irs_reportable": "Yes",
-    "id": 926
+    "id": 925
   },
   {
     "mcc": "7311",
@@ -8349,7 +8340,7 @@
     "usda_description": "Advertising Services",
     "irs_description": "Advertising Services",
     "irs_reportable": "Yes",
-    "id": 927
+    "id": 926
   },
   {
     "mcc": "7321",
@@ -8358,7 +8349,7 @@
     "usda_description": "Consumer Credit Reporting Agencies",
     "irs_description": "Credit Reporting Agencies",
     "irs_reportable": "Yes",
-    "id": 928
+    "id": 927
   },
   {
     "mcc": "7333",
@@ -8367,7 +8358,7 @@
     "usda_description": "Commercial Photography, Art and Graphics",
     "irs_description": "Commercial Photography, Art and Graphics",
     "irs_reportable": "Yes",
-    "id": 929
+    "id": 928
   },
   {
     "mcc": "7338",
@@ -8376,7 +8367,7 @@
     "usda_description": "Quick Copy, Reproduction and Blueprinting Services",
     "irs_description": "Quick Copy, Repro, and Blueprint",
     "irs_reportable": "Yes",
-    "id": 930
+    "id": 929
   },
   {
     "mcc": "7339",
@@ -8385,7 +8376,7 @@
     "usda_description": "Stenographic and Secretarial Support Services",
     "irs_description": "Secretarial Support Services",
     "irs_reportable": "Yes",
-    "id": 931
+    "id": 930
   },
   {
     "mcc": "7342",
@@ -8394,7 +8385,7 @@
     "usda_description": "Exterminating and Disinfecting Services",
     "irs_description": "Exterminating Services",
     "irs_reportable": "Yes",
-    "id": 932
+    "id": 931
   },
   {
     "mcc": "7349",
@@ -8403,7 +8394,7 @@
     "usda_description": "Cleaning and Maintenance, Janitorial Services",
     "irs_description": "Cleaning and Maintenance",
     "irs_reportable": "Yes",
-    "id": 933
+    "id": 932
   },
   {
     "mcc": "7361",
@@ -8412,7 +8403,7 @@
     "usda_description": "Employment Agencies, Temporary Help Services",
     "irs_description": "Employment/Temp Agencies",
     "irs_reportable": "Yes",
-    "id": 934
+    "id": 933
   },
   {
     "mcc": "7372",
@@ -8421,7 +8412,7 @@
     "usda_description": "Computer Programming, Integrated Systems Design and Data Processing Services",
     "irs_description": "Computer Programming",
     "irs_reportable": "Yes",
-    "id": 935
+    "id": 934
   },
   {
     "mcc": "7375",
@@ -8430,7 +8421,7 @@
     "usda_description": "Information Retrieval Services",
     "irs_description": "Information Retrieval Services",
     "irs_reportable": "Yes",
-    "id": 936
+    "id": 935
   },
   {
     "mcc": "7379",
@@ -8439,7 +8430,7 @@
     "usda_description": "Computer Maintenance and Repair Services, Not Elsewhere Classified",
     "irs_description": "Computer Repair",
     "irs_reportable": "Yes",
-    "id": 937
+    "id": 936
   },
   {
     "mcc": "7392",
@@ -8448,7 +8439,7 @@
     "usda_description": "Management, Consulting, and Public Relations Services",
     "irs_description": "Consulting, Public Relations",
     "irs_reportable": "Yes",
-    "id": 938
+    "id": 937
   },
   {
     "mcc": "7393",
@@ -8457,7 +8448,7 @@
     "usda_description": "Protective and Security Services – Including Armored Carsand Guard Dogs",
     "irs_description": "Detective Agencies",
     "irs_reportable": "Yes",
-    "id": 939
+    "id": 938
   },
   {
     "mcc": "7394",
@@ -8466,7 +8457,7 @@
     "usda_description": "Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",
     "irs_description": "Equipment Rental ",
     "irs_reportable": "Yes",
-    "id": 940
+    "id": 939
   },
   {
     "mcc": "7395",
@@ -8475,7 +8466,7 @@
     "usda_description": "Photofinishing Laboratories, Photo Developing",
     "irs_description": "Photo Developing",
     "irs_reportable": "Yes",
-    "id": 941
+    "id": 940
   },
   {
     "mcc": "7399",
@@ -8484,7 +8475,7 @@
     "usda_description": "Business Services, Not Elsewhere Classified",
     "irs_description": "Miscellaneous Business Services ",
     "irs_reportable": "Yes",
-    "id": 942
+    "id": 941
   },
   {
     "mcc": "7511",
@@ -8493,7 +8484,7 @@
     "usda_description": "",
     "irs_description": "Truck Stop",
     "irs_reportable": "Yes",
-    "id": 943
+    "id": 942
   },
   {
     "mcc": "7512",
@@ -8502,7 +8493,7 @@
     "usda_description": "Car Rental Companies ( Not Listed Below)",
     "irs_description": "Car Rental Agencies",
     "irs_reportable": "Yes",
-    "id": 944
+    "id": 943
   },
   {
     "mcc": "7513",
@@ -8511,7 +8502,7 @@
     "usda_description": "Truck and Utility Trailer Rentals",
     "irs_description": "Truck/Utility Trailer Rentals",
     "irs_reportable": "Yes",
-    "id": 945
+    "id": 944
   },
   {
     "mcc": "7519",
@@ -8520,7 +8511,7 @@
     "usda_description": "Motor Home and Recreational Vehicle Rentals",
     "irs_description": "Recreational Vehicle Rentals",
     "irs_reportable": "Yes",
-    "id": 946
+    "id": 945
   },
   {
     "mcc": "7523",
@@ -8529,7 +8520,7 @@
     "usda_description": "Automobile Parking Lots and Garages",
     "irs_description": "Parking Lots, Garages",
     "irs_reportable": "Yes",
-    "id": 947
+    "id": 946
   },
   {
     "mcc": "7531",
@@ -8538,7 +8529,7 @@
     "usda_description": "Automotive Body Repair Shops",
     "irs_description": "Auto Body Repair Shops",
     "irs_reportable": "Yes",
-    "id": 948
+    "id": 947
   },
   {
     "mcc": "7534",
@@ -8547,7 +8538,7 @@
     "usda_description": "Tire Re-treading and Repair Shops",
     "irs_description": "Tire Retreading and Repair",
     "irs_reportable": "Yes",
-    "id": 949
+    "id": 948
   },
   {
     "mcc": "7535",
@@ -8556,7 +8547,7 @@
     "usda_description": "Paint Shops – Automotive",
     "irs_description": "Auto Paint Shops",
     "irs_reportable": "Yes",
-    "id": 950
+    "id": 949
   },
   {
     "mcc": "7538",
@@ -8565,7 +8556,7 @@
     "usda_description": "Automotive Service Shops",
     "irs_description": "Auto Service Shops",
     "irs_reportable": "Yes",
-    "id": 951
+    "id": 950
   },
   {
     "mcc": "7542",
@@ -8574,7 +8565,7 @@
     "usda_description": "Car Washes",
     "irs_description": "Car Washes",
     "irs_reportable": "Yes",
-    "id": 952
+    "id": 951
   },
   {
     "mcc": "7549",
@@ -8583,7 +8574,7 @@
     "usda_description": "Towing Services",
     "irs_description": "Towing Services",
     "irs_reportable": "Yes",
-    "id": 953
+    "id": 952
   },
   {
     "mcc": "7622",
@@ -8592,7 +8583,7 @@
     "usda_description": "Radio Repair Shops",
     "irs_description": "Electronics Repair Shops",
     "irs_reportable": "Yes",
-    "id": 954
+    "id": 953
   },
   {
     "mcc": "7623",
@@ -8601,7 +8592,7 @@
     "usda_description": "Air Conditioning and Refrigeration Repair Shops",
     "irs_description": "A/C, Refrigeration Repair",
     "irs_reportable": "Yes",
-    "id": 955
+    "id": 954
   },
   {
     "mcc": "7629",
@@ -8610,7 +8601,7 @@
     "usda_description": "Electrical And Small Appliance Repair Shops",
     "irs_description": "Small Appliance Repair",
     "irs_reportable": "Yes",
-    "id": 956
+    "id": 955
   },
   {
     "mcc": "7631",
@@ -8619,7 +8610,7 @@
     "usda_description": "Watch, Clock, and Jewelry Repair",
     "irs_description": "Watch/Jewelry Repair",
     "irs_reportable": "Yes",
-    "id": 957
+    "id": 956
   },
   {
     "mcc": "7641",
@@ -8628,7 +8619,7 @@
     "usda_description": "Furniture, Furniture Repair, and Furniture Refinishing",
     "irs_description": "Furniture Repair, Refinishing",
     "irs_reportable": "Yes",
-    "id": 958
+    "id": 957
   },
   {
     "mcc": "7692",
@@ -8637,7 +8628,7 @@
     "usda_description": "Welding Repair",
     "irs_description": "Welding Repair",
     "irs_reportable": "Yes",
-    "id": 959
+    "id": 958
   },
   {
     "mcc": "7699",
@@ -8646,7 +8637,7 @@
     "usda_description": "Repair Shops and Related Services –Miscellaneous",
     "irs_description": "Miscellaneous Repair Shops",
     "irs_reportable": "Yes",
-    "id": 960
+    "id": 959
   },
   {
     "mcc": "7800",
@@ -8655,7 +8646,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 961
+    "id": 960
   },
   {
     "mcc": "7801",
@@ -8664,7 +8655,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 962
+    "id": 961
   },
   {
     "mcc": "7802",
@@ -8673,7 +8664,7 @@
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 963
+    "id": 962
   },
   {
     "mcc": "7829",
@@ -8682,7 +8673,7 @@
     "usda_description": "Motion Pictures and Video Tape Production and Distribution",
     "irs_description": "Picture/Video Production",
     "irs_reportable": "Yes",
-    "id": 964
+    "id": 963
   },
   {
     "mcc": "7832",
@@ -8691,7 +8682,7 @@
     "usda_description": "Motion Picture Theaters",
     "irs_description": "Motion Picture Theaters",
     "irs_reportable": "Yes",
-    "id": 965
+    "id": 964
   },
   {
     "mcc": "7841",
@@ -8700,7 +8691,7 @@
     "usda_description": "Video Tape Rental Stores",
     "irs_description": "Video Tape Rental Stores",
     "irs_reportable": "Yes",
-    "id": 966
+    "id": 965
   },
   {
     "mcc": "7911",
@@ -8709,7 +8700,7 @@
     "usda_description": "Dance Halls, Studios and Schools",
     "irs_description": "Dance Hall, Studios, Schools",
     "irs_reportable": "Yes",
-    "id": 967
+    "id": 966
   },
   {
     "mcc": "7922",
@@ -8718,7 +8709,7 @@
     "usda_description": "Theatrical Producers (Except Motion Pictures), Ticket Agencies",
     "irs_description": "Theatrical Ticket Agencies",
     "irs_reportable": "Yes",
-    "id": 968
+    "id": 967
   },
   {
     "mcc": "7929",
@@ -8727,7 +8718,7 @@
     "usda_description": "Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)",
     "irs_description": "Bands, Orchestras",
     "irs_reportable": "Yes",
-    "id": 969
+    "id": 968
   },
   {
     "mcc": "7932",
@@ -8736,7 +8727,7 @@
     "usda_description": "Billiard and Pool Establishments",
     "irs_description": "Billiard/Pool Establishments",
     "irs_reportable": "Yes",
-    "id": 970
+    "id": 969
   },
   {
     "mcc": "7933",
@@ -8745,7 +8736,7 @@
     "usda_description": "Bowling Alleys",
     "irs_description": "Bowling Alleys",
     "irs_reportable": "Yes",
-    "id": 971
+    "id": 970
   },
   {
     "mcc": "7941",
@@ -8754,7 +8745,7 @@
     "usda_description": "Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters",
     "irs_description": "Sports Clubs/Fields",
     "irs_reportable": "Yes",
-    "id": 972
+    "id": 971
   },
   {
     "mcc": "7991",
@@ -8763,7 +8754,7 @@
     "usda_description": "Tourist Attractions and Exhibits",
     "irs_description": "Tourist Attractions and Exhibits",
     "irs_reportable": "Yes",
-    "id": 973
+    "id": 972
   },
   {
     "mcc": "7992",
@@ -8772,7 +8763,7 @@
     "usda_description": "Golf Courses – Public",
     "irs_description": "Golf Courses - Public",
     "irs_reportable": "Yes",
-    "id": 974
+    "id": 973
   },
   {
     "mcc": "7993",
@@ -8781,7 +8772,7 @@
     "usda_description": "Video Amusement Game Supplies",
     "irs_description": "Video Amusement Game Supplies",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 975
+    "id": 974
   },
   {
     "mcc": "7994",
@@ -8790,7 +8781,7 @@
     "usda_description": "Video Game Arcades/Establishments",
     "irs_description": "Video Game Arcades",
     "irs_reportable": "Yes",
-    "id": 976
+    "id": 975
   },
   {
     "mcc": "7995",
@@ -8799,7 +8790,7 @@
     "usda_description": "Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",
     "irs_description": "Betting/Casino Gambling",
     "irs_reportable": "Yes",
-    "id": 977
+    "id": 976
   },
   {
     "mcc": "7996",
@@ -8808,7 +8799,7 @@
     "usda_description": "Amusement Parks, Carnivals, Circuses, Fortune Tellers",
     "irs_description": "Amusement Parks/Carnivals",
     "irs_reportable": "Yes",
-    "id": 978
+    "id": 977
   },
   {
     "mcc": "7997",
@@ -8817,7 +8808,7 @@
     "usda_description": "Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",
     "irs_description": "Country Clubs",
     "irs_reportable": "Yes",
-    "id": 979
+    "id": 978
   },
   {
     "mcc": "7998",
@@ -8826,7 +8817,7 @@
     "usda_description": "Aquariums, Sea-aquariums, Dolphinariums",
     "irs_description": "Aquariums",
     "irs_reportable": "Yes",
-    "id": 980
+    "id": 979
   },
   {
     "mcc": "7999",
@@ -8835,7 +8826,7 @@
     "usda_description": "Recreation Services (Not Elsewhere Classified)",
     "irs_description": "Miscellaneous Recreation Services",
     "irs_reportable": "Yes",
-    "id": 981
+    "id": 980
   },
   {
     "mcc": "8011",
@@ -8844,7 +8835,7 @@
     "usda_description": "Doctors and Physicians (Not Elsewhere Classified)",
     "irs_description": "Doctors",
     "irs_reportable": "Yes",
-    "id": 982
+    "id": 981
   },
   {
     "mcc": "8021",
@@ -8853,7 +8844,7 @@
     "usda_description": "Dentists and Orthodontists",
     "irs_description": "Dentists, Orthodontists",
     "irs_reportable": "Yes",
-    "id": 983
+    "id": 982
   },
   {
     "mcc": "8031",
@@ -8862,7 +8853,7 @@
     "usda_description": "Osteopaths",
     "irs_description": "Osteopaths",
     "irs_reportable": "Yes",
-    "id": 984
+    "id": 983
   },
   {
     "mcc": "8041",
@@ -8871,7 +8862,7 @@
     "usda_description": "Chiropractors",
     "irs_description": "Chiropractors",
     "irs_reportable": "Yes",
-    "id": 985
+    "id": 984
   },
   {
     "mcc": "8042",
@@ -8880,7 +8871,7 @@
     "usda_description": "Optometrists and Ophthalmologists",
     "irs_description": "Optometrists, Ophthalmologist",
     "irs_reportable": "Yes",
-    "id": 986
+    "id": 985
   },
   {
     "mcc": "8043",
@@ -8889,7 +8880,7 @@
     "usda_description": "Opticians, Opticians Goods and Eyeglasses",
     "irs_description": "Opticians, Eyeglasses",
     "irs_reportable": "Yes",
-    "id": 987
+    "id": 986
   },
   {
     "mcc": "8044",
@@ -8898,7 +8889,7 @@
     "usda_description": "Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 988
+    "id": 987
   },
   {
     "mcc": "8049",
@@ -8907,7 +8898,7 @@
     "usda_description": "Podiatrists and Chiropodists",
     "irs_description": "Chiropodists, Podiatrists",
     "irs_reportable": "Yes",
-    "id": 989
+    "id": 988
   },
   {
     "mcc": "8050",
@@ -8916,7 +8907,7 @@
     "usda_description": "Nursing and Personal Care Facilities",
     "irs_description": "Nursing/Personal Care ",
     "irs_reportable": "Yes",
-    "id": 990
+    "id": 989
   },
   {
     "mcc": "8062",
@@ -8925,7 +8916,7 @@
     "usda_description": "Hospitals",
     "irs_description": "Hospitals",
     "irs_reportable": "Yes",
-    "id": 991
+    "id": 990
   },
   {
     "mcc": "8071",
@@ -8934,7 +8925,7 @@
     "usda_description": "Medical and Dental Laboratories",
     "irs_description": "Medical and Dental Labs",
     "irs_reportable": "Yes",
-    "id": 992
+    "id": 991
   },
   {
     "mcc": "8099",
@@ -8943,7 +8934,7 @@
     "usda_description": "Medical Services and Health Practitioners (Not Elsewhere Classified)",
     "irs_description": "Medical Services ",
     "irs_reportable": "Yes",
-    "id": 993
+    "id": 992
   },
   {
     "mcc": "8111",
@@ -8952,7 +8943,7 @@
     "usda_description": "Legal Services and Attorneys",
     "irs_description": "Legal Services, Attorneys",
     "irs_reportable": "Yes",
-    "id": 994
+    "id": 993
   },
   {
     "mcc": "8211",
@@ -8961,7 +8952,7 @@
     "usda_description": "Elementary and Secondary Schools",
     "irs_description": "Elementary, Secondary Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 995
+    "id": 994
   },
   {
     "mcc": "8220",
@@ -8970,7 +8961,7 @@
     "usda_description": "Colleges, Junior Colleges, Universities, and ProfessionalSchools",
     "irs_description": "Colleges, Universities",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 996
+    "id": 995
   },
   {
     "mcc": "8241",
@@ -8979,7 +8970,7 @@
     "usda_description": "Correspondence Schools",
     "irs_description": "Correspondence Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 997
+    "id": 996
   },
   {
     "mcc": "8244",
@@ -8988,7 +8979,7 @@
     "usda_description": "Business and Secretarial Schools",
     "irs_description": "Business/Secretarial Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 998
+    "id": 997
   },
   {
     "mcc": "8249",
@@ -8997,7 +8988,7 @@
     "usda_description": "Vocational Schools and Trade Schools",
     "irs_description": "Vocational/Trade Schools",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 999
+    "id": 998
   },
   {
     "mcc": "8299",
@@ -9006,7 +8997,7 @@
     "usda_description": "Schools and Educational Services ( Not Elsewhere Classified)",
     "irs_description": "Educational Services ",
     "irs_reportable": "Yes",
-    "id": 1000
+    "id": 999
   },
   {
     "mcc": "8351",
@@ -9015,7 +9006,7 @@
     "usda_description": "Child Care Services",
     "irs_description": "Child Care Services",
     "irs_reportable": "Yes",
-    "id": 1001
+    "id": 1000
   },
   {
     "mcc": "8398",
@@ -9024,7 +9015,7 @@
     "usda_description": "Charitable and Social Service Organizations",
     "irs_description": "Charitable and Social Service Organizations - Fundraising",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 1002
+    "id": 1001
   },
   {
     "mcc": "8641",
@@ -9033,7 +9024,7 @@
     "usda_description": "Civic, Fraternal, and Social Associations",
     "irs_description": "Civic, Social, Fraternal Associations",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 1003
+    "id": 1002
   },
   {
     "mcc": "8651",
@@ -9042,7 +9033,7 @@
     "usda_description": "Political Organizations",
     "irs_description": "Political Organizations",
     "irs_reportable": "Yes",
-    "id": 1004
+    "id": 1003
   },
   {
     "mcc": "8661",
@@ -9051,7 +9042,7 @@
     "usda_description": "Religious Organizations",
     "irs_description": "Religious Organizations",
     "irs_reportable": "No1.6041-3(p)(2)",
-    "id": 1005
+    "id": 1004
   },
   {
     "mcc": "8675",
@@ -9060,7 +9051,7 @@
     "usda_description": "Automobile Associations",
     "irs_description": "Automobile Associations",
     "irs_reportable": "Yes",
-    "id": 1006
+    "id": 1005
   },
   {
     "mcc": "8699",
@@ -9069,7 +9060,7 @@
     "usda_description": "Membership Organizations ( Not Elsewhere Classified)",
     "irs_description": "Membership Organizations",
     "irs_reportable": "Yes",
-    "id": 1007
+    "id": 1006
   },
   {
     "mcc": "8734",
@@ -9078,7 +9069,7 @@
     "usda_description": "Testing Laboratories ( non-medical)",
     "irs_description": "Testing Laboratories",
     "irs_reportable": "Yes",
-    "id": 1008
+    "id": 1007
   },
   {
     "mcc": "8911",
@@ -9087,7 +9078,7 @@
     "usda_description": "Architectural – Engineering and Surveying Services",
     "irs_description": "Architectural/Surveying Services",
     "irs_reportable": "Yes",
-    "id": 1009
+    "id": 1008
   },
   {
     "mcc": "8931",
@@ -9096,7 +9087,7 @@
     "usda_description": "Accounting, Auditing, and Bookkeeping Services",
     "irs_description": "Accounting/Bookkeeping Services",
     "irs_reportable": "Yes",
-    "id": 1010
+    "id": 1009
   },
   {
     "mcc": "8999",
@@ -9105,7 +9096,7 @@
     "usda_description": "Professional Services ( Not Elsewhere Defined)",
     "irs_description": "Professional Services",
     "irs_reportable": "Yes",
-    "id": 1011
+    "id": 1010
   },
   {
     "mcc": "9211",
@@ -9114,7 +9105,7 @@
     "usda_description": "Court Costs, including Alimony and Child Support",
     "irs_description": "Court Costs, Including Alimony and Child Support - Courts of Law",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 1012
+    "id": 1011
   },
   {
     "mcc": "9222",
@@ -9123,7 +9114,7 @@
     "usda_description": "Fines",
     "irs_description": "Fines - Government Administrative Entities",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 1013
+    "id": 1012
   },
   {
     "mcc": "9223",
@@ -9132,7 +9123,7 @@
     "usda_description": "Bail and Bond Payments",
     "irs_description": "Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",
     "irs_reportable": "Yes",
-    "id": 1014
+    "id": 1013
   },
   {
     "mcc": "9311",
@@ -9141,7 +9132,7 @@
     "usda_description": "Tax Payments",
     "irs_description": "Tax Payments - Government Agencies",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 1015
+    "id": 1014
   },
   {
     "mcc": "9399",
@@ -9150,7 +9141,7 @@
     "usda_description": "Government Services ( Not Elsewhere Classified)",
     "irs_description": "Government Services (Not Elsewhere Classified)",
     "irs_reportable": "No1.6041-3(p)(4)",
-    "id": 1016
+    "id": 1015
   },
   {
     "mcc": "9402",
@@ -9159,7 +9150,7 @@
     "usda_description": "Postal Services – Government Only",
     "irs_description": "Postal Services - Government Only",
     "irs_reportable": "No1.6041-3(p)(3)",
-    "id": 1017
+    "id": 1016
   },
   {
     "mcc": "9405",
@@ -9168,7 +9159,7 @@
     "usda_description": "Intra – Government Transactions",
     "irs_description": "U.S. Federal Government Agencies or Departments",
     "irs_reportable": "No1.6041-3(p)(3)",
-    "id": 1018
+    "id": 1017
   },
   {
     "mcc": "9700",
@@ -9177,7 +9168,7 @@
     "usda_description": "Automated Referral Service ( For Visa Only)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 1019
+    "id": 1018
   },
   {
     "mcc": "9701",
@@ -9186,7 +9177,7 @@
     "usda_description": "Visa Credential Service ( For Visa Only)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 1020
+    "id": 1019
   },
   {
     "mcc": "9702",
@@ -9195,7 +9186,7 @@
     "usda_description": "GCAS Emergency Services ( For Visa Only)",
     "irs_description": "",
     "irs_reportable": "",
-    "id": 1021
+    "id": 1020
   },
   {
     "mcc": "9950",
@@ -9204,6 +9195,6 @@
     "usda_description": "Intra – Company Purchases ( For Visa Only)",
     "irs_description": "Intra-Company Purchases",
     "irs_reportable": "No1.6041-3(c)",
-    "id": 1022
+    "id": 1021
   }
 ]

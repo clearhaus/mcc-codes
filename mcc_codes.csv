@@ -814,6 +814,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5541,Service Stations ( with or without ancillary services),Service Stations ( with or without ancillary services),Service Stations ( with or without ancillary services),Service Stations ,No1.6041-3(c)
 5542,Automated Fuel Dispensers,Automated Fuel Dispensers,Automated Fuel Dispensers,Automated Fuel Dispensers,No1.6041-3(c)
 5551,Boat Dealers,Boat Dealers,Boat Dealers,Boat Dealers,No1.6041-3(c)
+5552,Electric Vehicle Charging,Electric Vehicle Charging,Electric Vehicle Charging,Electric Vehicle Charging,No1.6041-3(c)
 5561,"Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Motorcycle Shops, Dealers",No1.6041-3(c)
 5571,Motorcycle Dealers,Motorcycle Dealers,Motorcycle Dealers,Motorcycle Shops and Dealers,No1.6041-3(c)
 5592,Motor Home Dealers,Motor Home Dealers,Motor Home Dealers,Motor Homes Dealers,No1.6041-3(c)
@@ -845,10 +846,10 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5812,Eating places and Restaurants,Eating places and Restaurants,Eating places and Restaurants,"Eating Places, Restaurants",No1.6041-3(c)
 5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,No1.6041-3(c)
 5814,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,No1.6041-3(c)
-5815,"Digital Goods: Media, Books, Movies, Music",,,,
-5816,"Digital Goods: Games",,,,
-5817,"Digital Goods: Applications (Excludes Games)",,,,
-5818,"Digital Goods: Large Digital Goods Merchant",,,,
+5815,"Digital Goods: Media, Books, Movies, Music","Digital Goods: Media, Books, Movies, Music",,,
+5816,"Digital Goods: Games","Digital Goods: Games",,,
+5817,"Digital Goods: Applications (Excludes Games)","Digital Goods: Applications (Excludes Games)",,,
+5818,"Digital Goods: Large Digital Goods Merchant","Digital Goods: Large Digital Goods Merchant",,,
 5832,"Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services",,
 5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,No1.6041-3(c)
 5921,"Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",No1.6041-3(c)
@@ -904,7 +905,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 6381,"Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)",,
 6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,No1.6041-3(c)
 6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,,Real Estate Agents and Managers - Rentals,Yes
-6540,"POI Funding Transactions (MasterCard MCC)",,,,
+6540,"POI Funding Transactions (MasterCard MCC)","POI Funding Transactions (MasterCard MCC)",,,
 7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",Yes
 7012,Timeshares,Timeshares,Timeshares,Timeshares,Yes
 7032,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting/Recreation Camps,Yes
@@ -959,9 +960,9 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",Yes
 7692,Welding Repair,Welding Repair,Welding Repair,Welding Repair,Yes
 7699,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Miscellaneous Repair Shops,Yes
-7800,Government-Owned Lotteries,,,,
-7801,"Government-Licensed On-Line Casinos (On-Line Gambling)",,,,
-7802,"Government-Licensed Horse/Dog Racing",,,,
+7800,Government-Owned Lotteries,Government-Owned Lotteries,,,
+7801,"Government-Licensed On-Line Casinos (On-Line Gambling)","Government-Licensed On-Line Casinos (On-Line Gambling)",,,
+7802,"Government-Licensed Horse/Dog Racing","Government-Licensed Horse/Dog Racing",,,
 7829,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,Yes
 7832,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Yes
 7841,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Yes

@@ -7625,7 +7625,7 @@
   {
     "mcc": "5815",
     "edited_description": "Digital Goods: Media, Books, Movies, Music",
-    "combined_description": "",
+    "combined_description": "Digital Goods: Media, Books, Movies, Music",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
@@ -7634,7 +7634,7 @@
   {
     "mcc": "5816",
     "edited_description": "Digital Goods: Games",
-    "combined_description": "",
+    "combined_description": "Digital Goods: Games",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
@@ -7643,7 +7643,7 @@
   {
     "mcc": "5817",
     "edited_description": "Digital Goods: Applications (Excludes Games)",
-    "combined_description": "",
+    "combined_description": "Digital Goods: Applications (Excludes Games)",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
@@ -7652,7 +7652,7 @@
   {
     "mcc": "5818",
     "edited_description": "Digital Goods: Large Digital Goods Merchant",
-    "combined_description": "",
+    "combined_description": "Digital Goods: Large Digital Goods Merchant",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
@@ -8156,7 +8156,7 @@
   {
     "mcc": "6540",
     "edited_description": "POI Funding Transactions (MasterCard MCC)",
-    "combined_description": "",
+    "combined_description": "POI Funding Transactions (MasterCard MCC)",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
@@ -8651,7 +8651,7 @@
   {
     "mcc": "7800",
     "edited_description": "Government-Owned Lotteries",
-    "combined_description": "",
+    "combined_description": "Government-Owned Lotteries",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
@@ -8660,7 +8660,7 @@
   {
     "mcc": "7801",
     "edited_description": "Government-Licensed On-Line Casinos (On-Line Gambling)",
-    "combined_description": "",
+    "combined_description": "Government-Licensed On-Line Casinos (On-Line Gambling)",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
@@ -8669,7 +8669,7 @@
   {
     "mcc": "7802",
     "edited_description": "Government-Licensed Horse/Dog Racing",
-    "combined_description": "",
+    "combined_description": "Government-Licensed Horse/Dog Racing",
     "usda_description": "",
     "irs_description": "",
     "irs_reportable": "",
